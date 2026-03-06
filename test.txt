@@ -1,0 +1,3 @@
+Hello world
+42 Prague
+Last line without newline```
